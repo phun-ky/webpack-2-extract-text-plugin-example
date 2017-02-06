@@ -4,8 +4,8 @@
   "description": "An example repo for webpack 2 and extract text plugin",
   "main": "webpack.config.js",
   "scripts": {
-    "build": "webpack -p --output-filename=app.js",
-    "build:dev": "webpack --verbose --output-filename=app.js"
+    "build": "webpack -p",
+    "build:dev": "webpack --verbose"
   },
   "repository": {
     "type": "git",
